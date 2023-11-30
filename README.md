@@ -1,6 +1,6 @@
 # PORTAFOLIO2023
 
-###CONTEXTO
+CONTEXTO
 
 El restaurante siglo XXI, se encuentra en una zona ampliamente turística del país, atiende desde 
 hace 50 años por sus dueños, quienes poco a poco fueron construyendo el local hasta hacerse 

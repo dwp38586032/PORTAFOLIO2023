@@ -18,4 +18,4 @@ Usted y su grupo ha sido contratado para realizar un proyecto revolucionario, qu
 ordenar administrativamente la información del restaurante, sino que ejecute procesos que 
 optimicen la operación diaria con los clientes, la cocina y los administrativos.
 
-## GRUPO 4
+## GRUPO 4 Javier Reyes, Joaquin Aravena, Jorge Perez
